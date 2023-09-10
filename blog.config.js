@@ -31,7 +31,8 @@ const BLOG = {
   socialLink: {
     twitter: '',
     github: 'https://github.com/hoonbro',
-    telegram: ''
+    telegram: '',
+    linkedin: 'https://www.linkedin.com/in/jihoon-byun-a00427288/'
   },
   seo: {
     keywords: ['Notionic', 'Zuolan', 'Blog'],
