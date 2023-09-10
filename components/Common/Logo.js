@@ -6,13 +6,13 @@ const Logo = (props) => (
     xmlns='http://www.w3.org/2000/svg'
     width='24'
     height='24'
-    viewBox='0 0 24 24'
+    viewBox='0 0 725 727'
     style={{
       opacity: 1
     }}
     {...props}
   >
-  <g transform="translate(0.000000,24.000000) scale(0.100000,-0.100000)"
+  <g transform="translate(0.000000,725.000000) scale(0.100000,-0.100000)"
   fill="#000000" stroke="none">
     <path d="M3394 7180 c-515 -30 -1044 -185 -1500 -440 -706 -395 -1249 -1006
     -1564 -1759 -55 -133 -61 -150 -114 -321 -170 -552 -198 -1163 -79 -1750 54
