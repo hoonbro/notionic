@@ -1,8 +1,8 @@
 const BLOG = {
   title: 'Notionic',
-  author: '左蓝',
+  author: 'jihoon',
   email: 'i@zuolan.me',
-  link: 'https://zuolan.me',
+  link: 'https://github.com/hoonbro',
   newsletter: 'Notionic Weekly',
   description: 'A static blog build on top of Notion and Next.js',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
