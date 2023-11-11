@@ -17,11 +17,11 @@ const BLOG = {
   sortByDate: true,
   pagesShow: {
     newsletter: false,
-    notes: true,
+    notes: false,
     projects: true,
     contact: true,
-    books: true,
-    friends: true
+    books: false,
+    friends: false
   },
   showWeChatPay: true,
   previewImagesEnabled: true,
