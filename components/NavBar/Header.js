@@ -177,24 +177,9 @@ const Header = ({ navBarTitle, fullWidth }) => {
               <Logo className='h-14 hover:text-blue-500 dark:hover:text-blue-500 fill-current ml-4' />
             </motion.div>
           </Link>
-          {navBarTitle ? (
-            <p
-              className={`ml-2 font-medium ${
-                !showTitle ? 'hidden' : 'hidden xl:block'
-              }`}
-            >
-              {navBarTitle}
-            </p>
-          ) : (
-            <p
-              className={`ml-2 font-medium ${
-                !showTitle ? 'hidden' : 'hidden xl:block'
-              }`}
-            >
-              {BLOG.title},{' '}
-              <span className='font-normal'>{BLOG.description}</span>
-            </p>
-          )}
+          <p className='ml-2 font-medium' >
+            {BLOG.title}
+          </p>
         </div>
         <NavBar />
       </div>
