@@ -12,7 +12,6 @@ const Avatar = (props) => (
   >
     { <image x='0' y='0' width='100%' height='100%' clip-path='url(#shape)' href='https://ibb.co/bLGpW0N' preserveAspectRatio='none'></image> }
     
-    </path>
     <g
       transform='translate(180,300) scale(0.080000,-0.080000)'
       fill='currentColor'
