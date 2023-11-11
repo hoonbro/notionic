@@ -35,7 +35,7 @@ const BLOG = {
     linkedin: 'https://www.linkedin.com/in/jihoon-byun-a00427288/'
   },
   seo: {
-    keywords: ['Notionic', 'Zuolan', 'Blog'],
+    keywords: ['Backend Engineering', 'Hoon', 'Blog'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
   },
   notionPageId: process.env.NOTION_PAGE_ID, // DO NOT CHANGE THIS! Edit .env file!
